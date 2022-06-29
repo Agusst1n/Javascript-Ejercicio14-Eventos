@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio14-eventos",
+  "version": "1.0.0",
+  "description": "Modulo 14 ejercicio 1 Eventos",
+  "main": "index.js",
+  "scripts": {
+    "start":"http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Agustin Godoy",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
